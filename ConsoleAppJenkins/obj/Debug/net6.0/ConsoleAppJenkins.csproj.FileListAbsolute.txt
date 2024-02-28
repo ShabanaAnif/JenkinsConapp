@@ -1,0 +1,14 @@
+D:\Mphasis\Phase-4\Practise project\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.exe
+D:\Mphasis\Phase-4\Practise project\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.deps.json
+D:\Mphasis\Phase-4\Practise project\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.runtimeconfig.json
+D:\Mphasis\Phase-4\Practise project\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.dll
+D:\Mphasis\Phase-4\Practise project\ConsoleAppJenkins\ConsoleAppJenkins\bin\Debug\net6.0\ConsoleAppJenkins.pdb
+D:\Mphasis\Phase-4\Practise project\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase-4\Practise project\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.AssemblyInfoInputs.cache
+D:\Mphasis\Phase-4\Practise project\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.AssemblyInfo.cs
+D:\Mphasis\Phase-4\Practise project\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-4\Practise project\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.dll
+D:\Mphasis\Phase-4\Practise project\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\refint\ConsoleAppJenkins.dll
+D:\Mphasis\Phase-4\Practise project\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.pdb
+D:\Mphasis\Phase-4\Practise project\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ConsoleAppJenkins.genruntimeconfig.cache
+D:\Mphasis\Phase-4\Practise project\ConsoleAppJenkins\ConsoleAppJenkins\obj\Debug\net6.0\ref\ConsoleAppJenkins.dll
